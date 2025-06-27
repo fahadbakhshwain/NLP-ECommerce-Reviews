@@ -6,3 +6,4 @@ nltk
 spacy
 textblob
 joblib
+xgboost
