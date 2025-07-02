@@ -7,7 +7,7 @@ This project leverages Natural Language Processing (NLP) to perform sentiment an
 In a competitive e-commerce landscape, understanding customer feedback at scale is crucial. Manually reading thousands of reviews is inefficient and prone to bias. This project addresses the need for an automated system that can accurately classify review sentiment (positive/negative) and extract the core topics customers are discussing, allowing the business to quickly identify product strengths, weaknesses, and areas for operational improvement.
 
 ## 3. Data Source
-The data was sourced from a public dataset on **[اذكر هنا المصدر، مثلاً: Kaggle]**. It includes the raw text of customer reviews and their corresponding star ratings, which were used to label the sentiment.
+The data was sourced from a public dataset on **[google]**. It includes the raw text of customer reviews and their corresponding star ratings, which were used to label the sentiment.
 
 ## 4. Methodology
 
@@ -39,7 +39,3 @@ The data was sourced from a public dataset on **[اذكر هنا المصدر، 
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, NLTK, Scikit-learn
 - **Environment:** Jupyter Notebook
 
-## 7. How to Run
-1.  Clone the repository: `git clone [ضع رابط المستودع الخاص بك هنا]`
-2.  Install the necessary libraries: `pip install -r requirements.txt` (إذا كان لديك ملف requirements.txt)
-3.  Open and run the `[اكتب اسم ملف النوت بوك هنا].ipynb` notebook in a Jupyter environment.
